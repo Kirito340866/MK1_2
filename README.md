@@ -2,7 +2,6 @@
 
 A high-performance, multi-threaded command-line tool written in Python, designed for local authentication speed testing, password strength auditing, and security research. Powered by concurrent processing and optimized memory batching. This repository includes two versions: the interactive script (`bruteforcer.py`) and the advanced CLI argument script (`bruteforcer_arg.py`).
 
-```text
  __  __ _   __  _ 
 |  \/  | |/ / / | 
 | |\/| | ' /  | | 
