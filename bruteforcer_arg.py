@@ -8,7 +8,7 @@ print("""
 | |\/| | ' /  | |
 | |  | | . \  | |
 |_|  |_|_|\_\ |_|
-
+v1.1
 Created By: Kirito34086
 """)
 parser = argparse.ArgumentParser(description="MK1 Brute Forcer")
