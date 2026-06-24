@@ -7,7 +7,7 @@ print("""
 | |\/| | ' /  | |
 | |  | | . \  | |
 |_|  |_|_|\_\ |_|
-
+v1.0
 Created By: Kirito34086
 """)
 input_url = input("Enter Target URL (e.g: http://127.0.0.1:5000/login): ")
